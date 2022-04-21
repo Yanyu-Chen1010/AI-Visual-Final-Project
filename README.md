@@ -24,7 +24,7 @@ My project is inspired by three papers:
 
 In reference to the data illustrated in Jabeur's paper, I collected the monthly price change records from 
 
-![alt text](https://github.com/Yanyu-Chen1010/AI-Visual-Final-Project/blob/image.jpg)
+![alt text](https://github.com/Yanyu-Chen1010/AI-Visual-Final-Project/Screen Shot 2022-04-21 at 19.51.40.png)
 
 
 ### 2.2 Create Synthetic Datasets
