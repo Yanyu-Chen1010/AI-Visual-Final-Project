@@ -1,20 +1,35 @@
-# AI-Visual-Final-Project
+# Probing influence of SHAP Explanation on Forecasting Gold Price with XGBoost
 
-Will upadte code for generating synthetic dataset of gold price later. 
+Team member names: YANYU,CHEN (yc3823@nyu.edu)
 
-References' Web links:
-1. ActiveState: https://www.activestate.com/blog/top-10-python-packages-for-creating-synthetic-data/
-2. CapitalOne - Synthetic Data: https://github.com/capitalone/synthetic-data
+Project Track: 2
+
+Referenced Tool and Paper :
+1. CapitalOne: "Create Synthetic Data by correlation matrix", [https://github.com/capitalone/synthetic-data](url) 
+2. S.B.Jabeur, S.Mefteh-Wali, and J.L. Viviani. “Forecasting gold price with the XGBoost algorithm and SHAP interaction values”
+3. I. E. Kumar, S. Venkatasubramanian, C. Scheidegger, and S. Friedler. “Problems with Shapley-value-based explanations as feature importance measures”
+4. K.Mokhtari, B.P.Higdon, and B.Ayse. “Interpreting financial time series with SHAP values”
 
 
 ## 1. Intro & Literature Review
+My project is inspired by three papers:
+
+(Jabeur, et.al.)
+
 
 
 
 ## 2. Data
 ### 2.1 Collect and Clean Raw Data
 
+In reference to the data illustrated in Jabeur's paper, I collected the monthly price change records from 
+
+![alt text](https://github.com/Yanyu-Chen1010/AI-Visual-Final-Project/blob/image.jpg)
+
+
 ### 2.2 Create Synthetic Datasets
+
+Since I want to 
 
 
 
