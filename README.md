@@ -7,3 +7,42 @@ References' Web links:
 2. CapitalOne - Synthetic Data: https://github.com/capitalone/synthetic-data
 
 
+## 1. Intro & Literature Review
+
+
+
+## 2. Data
+### 2.1 Collect and Clean Raw Data
+
+### 2.2 Create Synthetic Datasets
+
+
+
+## 3. Hypothesis Testing
+### 3.1 XGBClassifier Train with original data
+
+### 3.2 Shap.TreeExplainers of dataset in different structure
+
+### 3.3 XGBClassifier Train with shapley values
+
+
+## 4. Evaluation and Results Visualization
+
+### 4.1 Hypothesis 1
+Visualization Design
+
+### 4.2 Hypothesis 2
+
+### 4.3 Interactive tool
+
+
+## 5. Case Study with Census-Income(KDD) dataset
+
+
+## References 
+
+
+
+
+
+
