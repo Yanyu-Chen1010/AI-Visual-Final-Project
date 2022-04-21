@@ -24,7 +24,7 @@ My project is inspired by three papers:
 
 In reference to the data illustrated in Jabeur's paper, I collected the monthly price change records from 
 
-![correlation matrix of X](https://github.com/Yanyu-Chen1010/AI-Visual-Final-Project/correlation_matrix_X.png)
+![correlation matrix of X](https://github.com/Yanyu-Chen1010/AI-Visual-Final-Project/blob/70c6f5b50ee297db426f197e071b3db11c337d4b/correlation_matrix_X.png)
 
 
 ### 2.2 Create Synthetic Datasets
