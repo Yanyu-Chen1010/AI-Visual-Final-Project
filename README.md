@@ -79,7 +79,7 @@ Meantime, since the price of platinum group metal have considerable influence on
 
 All commodity features are prices in unit: US-Dollar, collected as monthly records. The data frame obtained (df = X + y) after cleaning is described below:
 
-<div align=left>
+<div align=center>
   <img width="550" 
        height="300" 
        src="https://github.com/Yanyu-Chen1010/AI-Visual-Final-Project/blob/27ad29df1396242e0a52f1f8d4e98443b0363530/Cleaned_Data_info.png"/>
