@@ -8,12 +8,10 @@ Track 2: [My Colab Code, update in progress](https://colab.research.google.com/d
 
 # Introduction
 ## 1. Literature Review and Project Description
-My project is inspired by three papers: 
+My project is inspired by papers: 
 > Jabeur, et.al. "Forecasting gold price with the XGBoost algorithm and SHAP interaction values"
 > 
 > Kumar, et.al. "Problems with Shapley- value-based explanations as feature importance measures"
-> 
-> Mokhtari, et.al. "Interpreting financial time series with SHAP values"
 
 <br/>
 
